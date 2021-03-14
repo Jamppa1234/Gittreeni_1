@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-tätä on githubin kautta muutettu teksti
-=======
-tämä on paikallisen tiedoston uusi rivi
->>>>>>> Stashed changes
-Terveisiä paikalliselta tietokoneelta
+
+Terveisiä paikalliselta tietokoneelta ja githubista 
+

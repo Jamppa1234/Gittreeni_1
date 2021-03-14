@@ -3,4 +3,4 @@ tätä on githubin kautta muutettu teksti
 =======
 tämä on paikallisen tiedoston uusi rivi
 >>>>>>> Stashed changes
-tätä riviä muokataan ensin täällä 
+Terveisiä githubista 
